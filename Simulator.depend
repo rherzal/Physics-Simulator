@@ -1,0 +1,303 @@
+# depslib dependency file v1.0
+1637526134 source:e:\proiecte_faculta\simulator\simulator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Projectile.h"
+	"Plotter.h"
+	"Pendulum.h"
+
+1637235410 e:\proiecte_faculta\simulator\simulator\projectile.h
+	"Constants.h"
+	<stdio.h>
+
+1637528180 source:e:\proiecte_faculta\simulator\simulator\projectile.c
+	"Projectile.h"
+	<math.h>
+
+1637003534 e:\proiecte_faculta\simulator\simulator\constants.h
+
+1637235761 e:\proiecte_faculta\simulator\simulator\plotter.h
+	<windows.h>
+	<stdio.h>
+
+1637235761 source:e:\proiecte_faculta\simulator\simulator\plotter.c
+	"Plotter.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
+1637521047 e:\proiecte_faculta\simulator\simulator\pendulum.h
+	<math.h>
+	<stdio.h>
+	"Helpful.h"
+
+1637524553 source:e:\proiecte_faculta\simulator\simulator\pendulum.c
+	"Pendulum.h"
+
+1637520483 e:\proiecte_faculta\simulator\simulator\helpful.h
+
+1637520483 source:e:\proiecte_faculta\simulator\simulator\helpful.c
+	<math.h>
+	"Helpful.h"
+
+1637520483 source:c:\users\rherz\desktop\simulator\helpful.c
+	<math.h>
+	"Helpful.h"
+
+1637520483 c:\users\rherz\desktop\simulator\helpful.h
+
+1639412085 source:c:\users\rherz\desktop\simulator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Projectile.h"
+	"Plotter.h"
+	"Pendulum.h"
+	"Planets.h"
+
+1637235410 c:\users\rherz\desktop\simulator\projectile.h
+	"Constants.h"
+	<stdio.h>
+
+1637003534 c:\users\rherz\desktop\simulator\constants.h
+
+1637235761 c:\users\rherz\desktop\simulator\plotter.h
+	<windows.h>
+	<stdio.h>
+
+1637695333 c:\users\rherz\desktop\simulator\pendulum.h
+	<math.h>
+	<stdio.h>
+	"Helpful.h"
+
+1637695636 source:c:\users\rherz\desktop\simulator\pendulum.c
+	"Pendulum.h"
+
+1637235761 source:c:\users\rherz\desktop\simulator\plotter.c
+	"Plotter.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
+1637528180 source:c:\users\rherz\desktop\simulator\projectile.c
+	"Projectile.h"
+	<math.h>
+
+1638113672 source:c:\users\rherz\desktop\simulator\planets.c
+	"Planets.h"
+
+1638099580 c:\users\rherz\desktop\simulator\planets.h
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	"Helpful.h"
+
+1641338748 source:c:\users\viking\desktop\simulator\helpful.c
+	<math.h>
+	"Helpful.h"
+
+1641338748 c:\users\viking\desktop\simulator\helpful.h
+
+1641658034 source:c:\users\viking\desktop\simulator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Projectile.h"
+	"Plotter.h"
+	"Pendulum.h"
+	"Planets.h"
+
+1641338750 c:\users\viking\desktop\simulator\projectile.h
+	"Constants.h"
+	<stdio.h>
+
+1641338748 c:\users\viking\desktop\simulator\constants.h
+
+1641338750 c:\users\viking\desktop\simulator\plotter.h
+	<windows.h>
+	<stdio.h>
+
+1641338748 c:\users\viking\desktop\simulator\pendulum.h
+	<math.h>
+	<stdio.h>
+	"Helpful.h"
+
+1638063580 c:\users\viking\desktop\simulator\planets.h
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	"Helpful.h"
+
+1641338748 source:c:\users\viking\desktop\simulator\pendulum.c
+	"Pendulum.h"
+
+1638077672 source:c:\users\viking\desktop\simulator\planets.c
+	"Planets.h"
+
+1641338750 source:c:\users\viking\desktop\simulator\plotter.c
+	"Plotter.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
+1641338750 source:c:\users\viking\desktop\simulator\projectile.c
+	"Projectile.h"
+	<math.h>
+
+1641338748 source:c:\users\rherz\desktop\simulator cu ui\helpful.c
+	<math.h>
+	"Helpful.h"
+
+1641338748 c:\users\rherz\desktop\simulator cu ui\helpful.h
+
+1641338748 source:c:\users\rherz\desktop\simulator cu ui\pendulum.c
+	"Pendulum.h"
+
+1641338748 c:\users\rherz\desktop\simulator cu ui\pendulum.h
+	<math.h>
+	<stdio.h>
+	"Helpful.h"
+
+1638077672 source:c:\users\rherz\desktop\simulator cu ui\planets.c
+	"Planets.h"
+
+1638063580 c:\users\rherz\desktop\simulator cu ui\planets.h
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	"Helpful.h"
+
+1641338750 source:c:\users\rherz\desktop\simulator cu ui\plotter.c
+	"Plotter.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
+1641338750 c:\users\rherz\desktop\simulator cu ui\plotter.h
+	<windows.h>
+	<stdio.h>
+
+1641338750 source:c:\users\rherz\desktop\simulator cu ui\projectile.c
+	"Projectile.h"
+	<math.h>
+
+1641338750 c:\users\rherz\desktop\simulator cu ui\projectile.h
+	"Constants.h"
+	<stdio.h>
+
+1641338748 c:\users\rherz\desktop\simulator cu ui\constants.h
+
+1641669492 source:c:\users\rherz\desktop\simulator cu ui\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Projectile.h"
+	"Plotter.h"
+	"Pendulum.h"
+	"Planets.h"
+
+1641338748 source:c:\users\viking\desktop\simulator cu ui\helpful.c
+	<math.h>
+	"Helpful.h"
+
+1641338748 c:\users\viking\desktop\simulator cu ui\helpful.h
+
+1641338748 source:c:\users\viking\desktop\simulator cu ui\pendulum.c
+	"Pendulum.h"
+
+1641338748 c:\users\viking\desktop\simulator cu ui\pendulum.h
+	<math.h>
+	<stdio.h>
+	"Helpful.h"
+
+1638077672 source:c:\users\viking\desktop\simulator cu ui\planets.c
+	"Planets.h"
+
+1638063580 c:\users\viking\desktop\simulator cu ui\planets.h
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	"Helpful.h"
+
+1641338750 source:c:\users\viking\desktop\simulator cu ui\plotter.c
+	"Plotter.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
+1641338750 c:\users\viking\desktop\simulator cu ui\plotter.h
+	<windows.h>
+	<stdio.h>
+
+1641338750 source:c:\users\viking\desktop\simulator cu ui\projectile.c
+	"Projectile.h"
+	<math.h>
+
+1641338750 c:\users\viking\desktop\simulator cu ui\projectile.h
+	"Constants.h"
+	<stdio.h>
+
+1641338748 c:\users\viking\desktop\simulator cu ui\constants.h
+
+1641682830 source:c:\users\viking\desktop\simulator cu ui\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Projectile.h"
+	"Plotter.h"
+	"Pendulum.h"
+	"Planets.h"
+
+1641338748 source:e:\onedrive - technical university of cluj-napoca\toate\simulator cu ui\helpful.c
+	<math.h>
+	"Helpful.h"
+
+1641929609 e:\onedrive - technical university of cluj-napoca\toate\simulator cu ui\helpful.h
+
+1641338748 source:e:\onedrive - technical university of cluj-napoca\toate\simulator cu ui\pendulum.c
+	"Pendulum.h"
+
+1641929496 e:\onedrive - technical university of cluj-napoca\toate\simulator cu ui\pendulum.h
+	<math.h>
+	<stdio.h>
+	"Helpful.h"
+
+1638077672 source:e:\onedrive - technical university of cluj-napoca\toate\simulator cu ui\planets.c
+	"Planets.h"
+
+1641929535 e:\onedrive - technical university of cluj-napoca\toate\simulator cu ui\planets.h
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	"Helpful.h"
+
+1641338750 source:e:\onedrive - technical university of cluj-napoca\toate\simulator cu ui\plotter.c
+	"Plotter.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
+1641338750 e:\onedrive - technical university of cluj-napoca\toate\simulator cu ui\plotter.h
+	<windows.h>
+	<stdio.h>
+
+1641338750 source:e:\onedrive - technical university of cluj-napoca\toate\simulator cu ui\projectile.c
+	"Projectile.h"
+	<math.h>
+
+1641338750 e:\onedrive - technical university of cluj-napoca\toate\simulator cu ui\projectile.h
+	"Constants.h"
+	<stdio.h>
+
+1641929578 e:\onedrive - technical university of cluj-napoca\toate\simulator cu ui\constants.h
+
+1641929727 source:e:\onedrive - technical university of cluj-napoca\toate\simulator cu ui\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Projectile.h"
+	"Plotter.h"
+	"Pendulum.h"
+	"Planets.h"
+

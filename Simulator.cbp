@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Simulator" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Simulator" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Simulator" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Constants.h" />
+		<Unit filename="Helpful.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Helpful.h" />
+		<Unit filename="Pendulum.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Pendulum.h" />
+		<Unit filename="Planets.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Planets.h" />
+		<Unit filename="Plotter.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Plotter.h" />
+		<Unit filename="Projectile.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Projectile.h" />
+		<Unit filename="Updates.txt" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

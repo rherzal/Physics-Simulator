@@ -1,0 +1,18 @@
+[Radu Herzal, 18/11/2021, 13:44]
+    -Added Plotter object used for plotting graphs using gnuplot
+    -Added comments
+    -TODO:
+        Add menu screen
+        Write more modules
+
+[Radu Herzal, 21/11/2021, 22:25]
+    -Added ElasticPendulum and SimplePendulum
+    -Added Bouncing for Projectile
+    -TODO:
+        Add menu Screen
+        Write more modules
+        Add comments
+
+
+[Radu Herzal, 28/11/2021, 14:04]
+    -Probably Finished Planets.h
