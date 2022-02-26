@@ -1,4 +1,4 @@
-# Physics-Simulator
+# C-Physics-Simulator
 
 A simple physics simulator written in C written as a project for the Computer Programming class.
 
